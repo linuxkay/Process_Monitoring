@@ -16,6 +16,10 @@ systemd can easily replace this function. So no need to use this  program. It st
 
 ## Requirements
 
+Python2.7.
+
+May not work python3.* (Not tested)
+
 ## Usage
 
 ## Install
