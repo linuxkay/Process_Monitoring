@@ -12,7 +12,7 @@ Monitor specific process, re-launch process if specific process is dead.
 
 ## Overview
 
-systemd can easily replace this function. So no need to use this program. It still works in 2020 though.
+systemd can easily replace this function. So no need to use this script. It still works in 2020 though.
 
 ## Requirements
 
